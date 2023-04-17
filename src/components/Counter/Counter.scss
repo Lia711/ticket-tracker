@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.counter {
+    margin-top: 15px;
+    border: 2px solid gray;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+    .header{
+        font-size: 15px;
+    }
+
+    button {
+        width: 20px;
+        margin-bottom:10px;
+        background-color: white;
+        border:2px solid gray;
+        border-radius: 5px;
+    }
+
+    .buttons {
+        display: flex;
+        justify-content: center;
+        gap:10px;
+    }
+    
+}
