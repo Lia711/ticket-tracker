@@ -22,3 +22,8 @@ React pplication that tracks tickets for empoyees
 
 - search bar and select filter only have a decorative purpose as of now
 
+### Screenshots
+
+![image](https://github.com/Lia711/ticket-tracker/assets/125596830/10f818e4-c4e2-4003-9231-02294bb6730c)
+
+
